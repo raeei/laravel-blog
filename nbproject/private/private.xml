@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/views/editor/editor_dashboard.blade.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/composer.json</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/views/user_profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/views/post_page.blade.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/sass/_variables.scss</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/package.json</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/app/Http/Controllers/EditorController.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/sass/app.scss</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/views/layouts/app_layout.blade.php</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/resources/js/app.js</file>
+            <file>file:/C:/xampp/htdocs/laravel/blog/vite.config.js</file>
+        </group>
+    </open-files>
+</project-private>
